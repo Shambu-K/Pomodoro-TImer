@@ -24,4 +24,4 @@ Typically, each routine consists of 8 sessions, involving 4 work sessions, 3 sho
 
 **Note:** Start button should be pressed only in the beginning or after the timer has been reset, otherwise the program will glitch.
 
-P.S. I know the GUI looks terrible. I probably won't improve it.
+P.S. I know the GUI looks terrible. I probably won't improve it, so feel free to make PRs.
