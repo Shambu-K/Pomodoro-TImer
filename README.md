@@ -22,4 +22,6 @@ Typically, each routine consists of 8 sessions, involving 4 work sessions, 3 sho
 * Click on the **Start** button to start the timer
 * Click on the **Reset** button to reset the timer
 
-**Note:** Start button should be pressed only in the beginning or after the timer has been reset, otherwise the program will glitch
+**Note:** Start button should be pressed only in the beginning or after the timer has been reset, otherwise the program will glitch.
+
+P.S. I know the GUI looks terrible. I probably won't improve it.
