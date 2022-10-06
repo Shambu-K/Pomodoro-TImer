@@ -3,7 +3,7 @@
 ## Description
 The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s.It uses a kitchen timer to break work into intervals, typically 25 minutes in length, separated by short breaks. Each interval is known as a pomodoro, from the Italian word for tomato, after the tomato-shaped kitchen timer Cirillo used as a university student.
 
-Typically, each routine consists of 8 sessions, involving 4 work sessions, 3 short breaks and 1 final long break. This project is my implementation of the same.
+Typically, each routine consists of 8 sessions, involving 4 work sessions, 3 short breaks and 1 long break. This project is my implementation of the same.
 
 ## Installation
 * Make sure that you have python3 installed in your system

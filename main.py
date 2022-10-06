@@ -2,15 +2,14 @@ from cgitb import text
 from itertools import count
 from tkinter import *
 from turtle import bgcolor, color, onclick
-
 import time
 import math
+
 #CONSTANTS
 PINK = "#ed979c"
 RED = "#e7305b"
 GREEN = "#9bdeac"
 YELLOW = "#f7f5dd"
-FONT_NAME = "Comic Sans"
 WORK_MIN = 25
 SHORT_BREAK_MIN = 5
 LONG_BREAK_MIN = 20
