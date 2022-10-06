@@ -17,6 +17,8 @@ Typically, each routine consists of 8 sessions, involving 4 work sessions, 3 sho
 * Run the python file <br />
    ```  python3 main.py```
 
+* In case you wish to try the app without going through the process of installation, simply run the executable named **timer**
+
 ## Usage
 
 * Click on the **Start** button to start the timer
